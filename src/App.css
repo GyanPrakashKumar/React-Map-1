@@ -1,0 +1,10 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+main select {
+    padding: 5px;
+    font-size: 20px;
+    margin-left: 10px;
+}

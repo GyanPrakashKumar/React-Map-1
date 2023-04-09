@@ -1,0 +1,26 @@
+const countries = [
+    {
+        name:'India',
+        Value:'IN',
+        cities:[
+            'Delhi',
+            'Mumbai'
+        ]
+    },
+    {
+        name:'Nepal',
+        Value:'NE',
+        cities:[
+            'Kathmandu',
+            'Birganj'
+        ]
+    },
+    {
+        name:'Bangladesh',
+        Value:'BG',
+        cities:[
+            'Dhaka',
+            'Chittagong'
+        ]
+    },
+]
